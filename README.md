@@ -3,6 +3,7 @@ Decided to include my solutions for leetcode problems.
 
 # LeetCode TwoSum
 
+"""
 class Solution(object):
     def twoSum(self, nums, target):
         """
@@ -77,5 +78,6 @@ target = 8
 
 s = Solution() 
 print(s.twoSum(nums,target))       
+"""
 
 # Next LeetCode when?
