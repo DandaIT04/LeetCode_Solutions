@@ -15,4 +15,7 @@ An hour and a half to complete. Actually spent 80% of the time using imagination
 
 The reason why my code is inefficient is because i have no clue at this time how to check if certain roman values exists and if they don't, line won't be executed or something.
 
+Most efficient python solution adds roman numerals to dictionary(i considered this but didn't know how to implement into my solution).
+Basically, start from len(n) - 1, from the last letter of string. If i = 5, where 5 is the 5th string letter, and j = i - 1, where 4 is the 4th string letter and if 4th string letter is smaller than 5th string letter, this means it is a special roman numeral combination e.g iv.
+
 # Next LeetCode when?
