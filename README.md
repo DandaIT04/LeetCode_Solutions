@@ -13,6 +13,6 @@ Took much longer than it could have been because codeforces and leetcode solutio
 
 An hour and a half to complete. Actually spent 80% of the time using imagination/visualization about the most efficient method i could conjure to solve this method. Reached a conclusion to use count() to check if certain special roman combinations exists first e.g iv for 4, if any is found, remove the letters from the string n via replace("iv",""). After special characters are done, the normal characters will be next in line to convert to int.
 
-The reason why my code is efficient is because i have no clue at this time how to check if certain roman values exists and if they don't, line won't be executed or something.
+The reason why my code is inefficient is because i have no clue at this time how to check if certain roman values exists and if they don't, line won't be executed or something.
 
 # Next LeetCode when?
