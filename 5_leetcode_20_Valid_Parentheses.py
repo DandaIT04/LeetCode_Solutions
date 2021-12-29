@@ -26,7 +26,7 @@ print(k.isValid(s))
 """
 class Solution(object):
     def isValid(self, s):
-        """
+        """ wuyi365 code NOT MINE
         :type s: str
         :rtype: bool
         """
