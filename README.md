@@ -22,4 +22,8 @@ Basically, start from len(n) - 1, from the last letter of string. If i = 5, wher
 
 Took me 2 hours, 38 submissions. It really is difficult to find the most common prefix. Even after reading multiple efficient python solution, i still cannot understand how it can be done more efficiently, even with debugging.
 
+# LeetCode # 20 Valid parenthesis
+
+Probably be my last leetcode. LeetCode submissions are the only ones i always have a problem with. vscode returns correct values while leetcode doesn't. This happened twice.
+
 # Next LeetCode when?
