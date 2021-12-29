@@ -18,4 +18,8 @@ The reason why my code is inefficient is because i have no clue at this time how
 Most efficient python solution adds roman numerals to dictionary(i considered this but didn't know how to implement into my solution).
 Basically, start from len(n) - 1, from the last letter of string. If i = 5, where 5 is the 5th string letter, and j = i - 1, where 4 is the 4th string letter and if 4th string letter is smaller than 5th string letter, this means it is a special roman numeral combination e.g iv.
 
+# LeetCode # 14 Longest Common Prefix
+
+Took me 2 hours, 38 submissions. It really is difficult to find the most common prefix. Even after reading multiple efficient python solution, i still cannot understand how it can be done more efficiently, even with debugging.
+
 # Next LeetCode when?
